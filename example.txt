@@ -1,3 +1,7 @@
 My first write code
 
-this my second code
+this my second codegit
+
+thi is the new line
+
+this is another line 
